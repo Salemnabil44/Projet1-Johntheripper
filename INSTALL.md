@@ -98,14 +98,14 @@ Aller sur le site https://www.openwall.com/john/ Puis télécharger le fichier Z
 <img width="844" alt="Capture d’écran 2024-06-06 à 16 06 41" src="https://github.com/Salemnabil44/Projet1-Johntheripper/assets/161028838/d2d0fc55-a7ee-4987-81cd-ed0a8977cd75">
 
 3. Double cliquez sur le fichier JohnTheRipper, puis cliquez sur le dossier d’exécution nommé “run“. Une fois les étapes faites taper Cmd dans la barre de chemin, puis “Entrée“.
+   
+<img width="849" alt="Capture d’écran 2024-06-06 à 16 12 04" src="https://github.com/Salemnabil44/Projet1-Johntheripper/assets/161028838/d4b64bf8-e26b-4851-8258-f92ed6df5449">
 
-4.  Le terminal windows s’ouvrira, puis taper “dir“ pour répertorier tous les fichiers et dossiers.
+5.  Le terminal windows s’ouvrira, puis taper “dir“ pour répertorier tous les fichiers et dossiers.
 
-5. Pour bien vérifier que John The Ripper fonctionne correctement tapé “John“. John The Ripper est installé avec succès.
+6. Pour bien vérifier que John The Ripper fonctionne correctement tapé “John“. John The Ripper est installé avec succès.
 
-
-
-
+<img width="830" alt="Capture d’écran 2024-06-06 à 16 12 35" src="https://github.com/Salemnabil44/Projet1-Johntheripper/assets/161028838/b94713b9-e7e7-4b02-afd6-dec6c79d51b2">
 
 
 # Installation John The Ripper sur Mac Os
